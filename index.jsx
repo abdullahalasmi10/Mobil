@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 5, height: 10 }, 
     shadowOpacity: 0.2, 
     shadowRadius: 8,  
-    marginBottom: 20, 
+    marginBottom: 21, 
     overflow: 'hidden',
   },
   text: {
