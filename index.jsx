@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#FFF2", 
   },
   smallImage: {
-    width: 50, 
+    width: 51, 
     height: 200, 
     position: "absolute",
     top: 10, 
