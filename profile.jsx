@@ -19,7 +19,7 @@ const Profile = () => {
 
     router.replace("/sign-in");
   };
-
+//dikkat
   return (
     <SafeAreaView className="bg-primary h-full">
       <FlatList
