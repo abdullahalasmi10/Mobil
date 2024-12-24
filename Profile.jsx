@@ -8,7 +8,7 @@ const profile = () => {
     </View>
   )
 }
-
+//şuna dikkat
 export default profile
 
 const styles = StyleSheet.create({})
