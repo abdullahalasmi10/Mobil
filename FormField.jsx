@@ -2,7 +2,7 @@ import { useState } from "react";
 import { View, Text, TextInput, TouchableOpacity, Image } from "react-native";
 
 import { icons } from "../constants";
-
+//buraya dikkat
 const FormField = ({
   title,
   value,
